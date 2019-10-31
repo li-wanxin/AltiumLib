@@ -1,0 +1,5 @@
+SchLib
+IC类器件描述：英文描述，内容遵循“种类,厂商,功能描述”，尽量简短，种类与厂商英文大写，功能描述单词首字母大写。例“POWER,TI,Synchronous Boost Controller”  
+
+PcbLib
+
