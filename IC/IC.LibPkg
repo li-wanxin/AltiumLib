@@ -70,7 +70,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=UBWMTSRK
+DocumentUniqueId=KQECWLYK
 
 [Document3]
 DocumentPath=IC-Interface.SchLib
@@ -124,23 +124,6 @@ GenerateClassCluster=0
 DocumentUniqueId=QMARYSES
 
 [Document6]
-DocumentPath=IC.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MARDCKWK
-
-[Document7]
 DocumentPath=IC-Sensor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -157,7 +140,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMCXUSVC
 
-[Document8]
+[Document7]
 DocumentPath=IC-Amplifier.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,6 +156,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SFBDWWWY
+
+[Document8]
+DocumentPath=IC.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MARDCKWK
 
 [OutputGroup1]
 Name=Netlist Outputs
